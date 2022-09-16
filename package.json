@@ -33,7 +33,7 @@
     "babel-preset-env": "^1.5.2",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-1": "^6.24.1",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "bootstrap-loader": "^2.1.0",
     "bootstrap-sass": "^3.3.7",
     "clean-webpack-plugin": "^0.1.16",
